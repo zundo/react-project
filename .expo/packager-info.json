@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 45321,
+  "expoServerNgrokUrl": "https://rc-yca.anonymous.firstapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.rc-yca.anonymous.firstapp.exp.direct",
+  "ngrokPid": 45335,
+  "webpackServerPort": null
+}
